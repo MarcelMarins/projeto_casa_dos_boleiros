@@ -1,0 +1,110 @@
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.MainForm.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.csproj.GenerateResource.Cache
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.frm_login.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.frm_menu.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cadastro_Clientes.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cadastrar_funcionários.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cadastro_de_produtos.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cadastro_fornecedor.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consultas_Clientes.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consultas_Fornecedores.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consultas_Funcionários.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Compras_Cadastro.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consultas_Produtos.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consulta_Estoque.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Compras_Pedidos.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consulta_Compra.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Vendas_Consultas.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Vendas_Produto.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cat_brasil.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cat_europeus.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Acessorios.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Feminino.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Inverno.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Jogo.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cat_sulamerica.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cadastrar_funcionários.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cadastro_Clientes.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cadastro_de_produtos.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cadastro_fornecedor.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Acessorios.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cat_brasil.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cat_europeus.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Feminino.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Inverno.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Jogo.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Seleções.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cat_sulamerica.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Compras_Cadastro.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Compras_Pedidos.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consultas_Clientes.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consultas_Fornecedores.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consultas_Funcionários.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consultas_Produtos.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consulta_Compra.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consulta_Estoque.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.frm_login.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.frm_menu.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.MainForm.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Vendas_Consultas.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Vendas_Produto.resources
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.csproj.GenerateResource.Cache
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\Casa dos Boleiros.exe
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\Casa dos Boleiros.pdb
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Casa dos Boleiros.exe
+F:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Casa dos Boleiros.pdb
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\Casa dos Boleiros.exe
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\Casa dos Boleiros.pdb
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Seleções.resources
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Casa dos Boleiros.exe
+E:\ARQUIVOS\ETEC\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Casa dos Boleiros.pdb
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\Casa dos Boleiros.exe
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\Casa dos Boleiros.pdb
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\mscorlib.dll
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\pt-BR\mscorlib.resources.dll
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\sortkey.nlp
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\sorttbls.nlp
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\big5.nlp
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\bopomofo.nlp
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\ksc.nlp
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\prc.nlp
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\prcp.nlp
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\xjis.nlp
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\normidna.nlp
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\normnfc.nlp
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\normnfd.nlp
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\normnfkc.nlp
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\bin\Debug\normnfkd.nlp
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.csproj.AssemblyReference.cache
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cadastrar_funcionários.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cadastro_Clientes.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cadastro_de_produtos.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cadastro_fornecedor.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Acessorios.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cat_brasil.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cat_europeus.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Feminino.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Inverno.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Jogo.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Cat_Seleções.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.cat_sulamerica.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Compras_Cadastro.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Compras_Pedidos.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consultas_Clientes.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consultas_Fornecedores.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consultas_Funcionários.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consultas_Produtos.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consulta_Compra.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Consulta_Estoque.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.frm_login.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.frm_menu.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.MainForm.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Vendas_Consultas.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.Vendas_Produto.resources
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.csproj.GenerateResource.cache
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.csproj.CoreCompileInputs.cache
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Projeto_Final.csproj.CopyComplete
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Casa dos Boleiros.exe
+D:\BB - Backups & Badernas\Pendrive ETEC\Backup Pendrive 05-05-19\backup do backup\ETEC\2° MODULO\DSI\ORIENTADO A OBJETOS\Projeto_Final\Projeto_Final\obj\x86\Debug\Casa dos Boleiros.pdb

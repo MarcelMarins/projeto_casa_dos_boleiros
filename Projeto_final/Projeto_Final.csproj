@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{0B9F5514-AF7A-4CA2-AB6E-F53207116B69}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Projeto_Final</RootNamespace>
+    <AssemblyName>Casa dos Boleiros</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <SourceAnalysisOverrideSettingsFile>C:\Users\Aluno\Desktop\SharpDevelopPortable\User\SharpDevelop-3\Settings.SourceAnalysis</SourceAnalysisOverrideSettingsFile>
+    <StartupObject>Projeto_Final.Program</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.Targets" />
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cadastrar_funcionários.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastrar_funcionários.Designer.cs">
+      <DependentUpon>cadastrar_funcionários.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro_Clientes.Designer.cs">
+      <DependentUpon>Cadastro_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cadastro_de_produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastro_de_produtos.Designer.cs">
+      <DependentUpon>cadastro_de_produtos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cadastro_fornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastro_fornecedor.Designer.cs">
+      <DependentUpon>cadastro_fornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cat_Acessorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cat_Acessorios.Designer.cs">
+      <DependentUpon>Cat_Acessorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cat_brasil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cat_brasil.Designer.cs">
+      <DependentUpon>cat_brasil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cat_europeus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cat_europeus.Designer.cs">
+      <DependentUpon>cat_europeus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cat_Feminino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cat_Feminino.Designer.cs">
+      <DependentUpon>Cat_Feminino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cat_Inverno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cat_Inverno.Designer.cs">
+      <DependentUpon>Cat_Inverno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cat_Jogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cat_Jogo.Designer.cs">
+      <DependentUpon>Cat_Jogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cat_Seleções.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cat_Seleções.Designer.cs">
+      <DependentUpon>Cat_Seleções.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cat_sulamerica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cat_sulamerica.Designer.cs">
+      <DependentUpon>cat_sulamerica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compras_Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras_Cadastro.Designer.cs">
+      <DependentUpon>Compras_Cadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compras_Pedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras_Pedidos.Designer.cs">
+      <DependentUpon>Compras_Pedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas_Clientes.Designer.cs">
+      <DependentUpon>Consultas_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas_Fornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas_Fornecedores.Designer.cs">
+      <DependentUpon>Consultas_Fornecedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas_Funcionários.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas_Funcionários.Designer.cs">
+      <DependentUpon>Consultas_Funcionários.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas_Produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas_Produtos.Designer.cs">
+      <DependentUpon>Consultas_Produtos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta_Compra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta_Compra.Designer.cs">
+      <DependentUpon>Consulta_Compra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta_Estoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta_Estoque.Designer.cs">
+      <DependentUpon>Consulta_Estoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_login.Designer.cs">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_menu.Designer.cs">
+      <DependentUpon>frm_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vendas_Consultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendas_Consultas.Designer.cs">
+      <DependentUpon>Vendas_Consultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendas_Produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendas_Produto.Designer.cs">
+      <DependentUpon>Vendas_Produto.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="cadastrar_funcionários.resx">
+      <DependentUpon>cadastrar_funcionários.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro_Clientes.resx">
+      <DependentUpon>Cadastro_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastro_de_produtos.resx">
+      <DependentUpon>cadastro_de_produtos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastro_fornecedor.resx">
+      <DependentUpon>cadastro_fornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cat_Acessorios.resx">
+      <DependentUpon>Cat_Acessorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cat_brasil.resx">
+      <DependentUpon>cat_brasil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cat_europeus.resx">
+      <DependentUpon>cat_europeus.Designer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cat_Feminino.resx">
+      <DependentUpon>Cat_Feminino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cat_Inverno.resx">
+      <DependentUpon>Cat_Inverno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cat_Jogo.resx">
+      <DependentUpon>Cat_Jogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cat_Seleções.resx">
+      <DependentUpon>Cat_Seleções.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cat_sulamerica.resx">
+      <DependentUpon>cat_sulamerica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras_Cadastro.resx">
+      <DependentUpon>Compras_Cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras_Pedidos.resx">
+      <DependentUpon>Compras_Pedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas_Clientes.resx">
+      <DependentUpon>Consultas_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas_Fornecedores.resx">
+      <DependentUpon>Consultas_Fornecedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas_Funcionários.resx">
+      <DependentUpon>Consultas_Funcionários.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas_Produtos.resx">
+      <DependentUpon>Consultas_Produtos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta_Compra.resx">
+      <DependentUpon>Consulta_Compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta_Estoque.resx">
+      <DependentUpon>Consulta_Estoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_menu.resx">
+      <DependentUpon>frm_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendas_Consultas.resx">
+      <DependentUpon>Vendas_Consultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendas_Produto.resx">
+      <DependentUpon>Vendas_Produto.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
